@@ -36,8 +36,8 @@ Divide the frame into halves and assign the smaller frame and Rotate the frame u
 
 ## Program:
 ``` Python
-### Developed By:
-### Register No:
+### Developed By: Shashank R
+### Register No:212223230205
 
 ## i) Write the frame as JPG file
 
@@ -103,14 +103,14 @@ cv2.destroyAllWindows()
 ## Output
 
 
-### ii) Display the video
+### i) Display the video
 ![image](https://github.com/user-attachments/assets/a5a837d3-4048-49a5-b7d2-4086a2fda565)
 
-### iii) Display the video by resizing the window
+### ii) Display the video by resizing the window
+![image](https://github.com/user-attachments/assets/32b37177-e7c4-4d1c-b8cf-dab134cf3120)
 
-### iv) Rotate and display the video
-
-
+### iii) Rotate and display the video
+![image](https://github.com/user-attachments/assets/8c455b66-1042-4ed3-b109-d80c0fc9534a)
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
