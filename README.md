@@ -102,26 +102,23 @@ cv2.destroyAllWindows()
 ```
 ## Output
 
-### i) Write the frame as JPG image
-</br>
-</br>
-
 
 ### ii) Display the video
 </br>
-![Screenshot 2025-03-28 111846](https://github.com/user-attachments/assets/8b39924e-f584-4146-88d6-43d407d27913)
+![Screenshot 2025-03-28 111846](https://github.com/user-attachments/assets/00501f4f-445b-4e5a-8425-5f2b7e2528e4)
+
 </br>
 
 
 ### iii) Display the video by resizing the window
 </br>
-![Screenshot 2025-03-28 112750](https://github.com/user-attachments/assets/9ce76c9e-d659-403d-befb-4ddfebe88725)
+![Screenshot 2025-03-28 111936](https://github.com/user-attachments/assets/1b4f33f7-a18a-4d0d-b5fe-1d744a2d6c87)
 </br>
 
 
 ### iv) Rotate and display the video
 </br>
-![Uploading Screenshot 2025-03-28 111936.png…]()
+![Screenshot 2025-03-28 112750](https://github.com/user-attachments/assets/174c7677-5930-42de-b6b4-f530318b6f99)
 </br>
 
 
