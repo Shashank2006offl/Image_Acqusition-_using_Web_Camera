@@ -105,7 +105,7 @@ cv2.destroyAllWindows()
 
 ### ii) Display the video
 </br>
-![Screenshot 2025-03-28 111846](https://github.com/user-attachments/assets/00501f4f-445b-4e5a-8425-5f2b7e2528e4)
+![image](https://github.com/user-attachments/assets/7c5faa03-fcf8-47d2-9a10-0f5a0035521d)
 
 </br>
 
